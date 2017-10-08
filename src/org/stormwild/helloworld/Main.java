@@ -1,3 +1,5 @@
+package org.stormwild.helloworld;
+
 public class Main {
 
     public static void main(String[] args) {
